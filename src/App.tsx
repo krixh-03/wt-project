@@ -1,7 +1,7 @@
 import Login from "./components/Login";
 
 export default function App() {
-  return <>
+  return <div id="root">
     <Login /> 
-  </>
+  </div>
 }
